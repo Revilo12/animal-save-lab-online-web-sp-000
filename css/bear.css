@@ -12,5 +12,7 @@ html {
 @media (max-width:240px){
   #bear{
     position: relative;
+    top: 0;
+    right: 0;
   }
 }
