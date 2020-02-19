@@ -9,7 +9,7 @@ html {
 }
 
 /* Write your solution here */
-@media (max-width: 244px){
+@media (max-width: 500px){
   #bear {
     display: none;
   }
