@@ -9,7 +9,7 @@ html {
 }
 
 /* Write your solution here */
-@media (max-width:240px){
+@media (min-width:240px){
   #bear{
     position: absolute;;
     top: 0;
