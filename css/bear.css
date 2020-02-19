@@ -11,6 +11,6 @@ html {
 /* Write your solution here */
 @media (max-width:240px){
   #bear{
-    position: relative;
+    position: static;;
   }
 }
